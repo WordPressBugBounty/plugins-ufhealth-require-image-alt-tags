@@ -1,0 +1,1 @@
+# plugins-ufhealth-require-image-alt-tags
